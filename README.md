@@ -10,8 +10,8 @@ Follow the sections bellow to successfully install and run the project.
 
 To install, use `npm`:
 
-    npm install torc_eval
-
+    npm install
+    
 ## Running
 
 To run, use: 
