@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://duckduckgo.com",
+    "testFiles": "**/*.ts",
+    "defaultCommandTimeout": 10000
+}
